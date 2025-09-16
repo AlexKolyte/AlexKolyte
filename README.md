@@ -2,7 +2,7 @@
 
 I'm **Alex Kolotylo**, a passionate software engineer who loves to build innovative solutions. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on various projects, including an **Instagram Scraper** using **Java/Spring Boot** and **React.js**.
+- 🔭 I’m currently working on various projects, including an **Instagram Scraper** using **Java/Spring Boot** and **React.js**. **Bloop chat** using WebSockets, HTML/CSS/JS.
 - 🌱 I’m always learning new technologies and improving my skills.
 - 👯 I’m open to collaborating on **software engineering** projects, especially those involving **Java**, **Spring Boot**, **React.js**, and **SDET** work.
 - 🤔 I’m looking for help with optimizing **web scraping techniques** and building more efficient full-stack applications.
