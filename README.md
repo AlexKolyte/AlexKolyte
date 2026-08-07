@@ -7,7 +7,7 @@ I'm **Alex Kolotylo**, a passionate software engineer who loves to build innovat
 - 👯 I’m open to collaborating on **software engineering** projects, especially those involving **Java**, **Spring Boot**, **React.js**, and **SDET** work.
 - 🤔 I’m looking for help with optimizing **web scraping techniques** and building more efficient full-stack applications.
 - 💬 Feel free to ask me about **software engineering**, **SDET** practices, or **web development**.
-- 📫 How to reach me: You can contact me via my website at [kolyte.net](https://kolyte.net) or email me directly at **alexkolyte@gmail.com**.
+- 📫 How to reach me: You can contact me directly at **alexkolyte@gmail.com**.
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: When I’m not coding, I enjoy exploring new tech trends and experimenting with open-source projects.
 
